@@ -23,10 +23,4 @@ whatever documents in elasticsearch using Apache Tika behind the scene.
 * Blog: https://david.pilato.fr/
 * [noti.st](https://speaker.pilato.fr/)
 
-## Pictures
 
-![Elastic Official](https://www.dropbox.com/s/oia209y6t0dbvup/DPI_Official_reduced.png?dl=0 "Elastic Official")
-
-![Home Office](https://www.dropbox.com/s/7a79e25dp79zizq/PhotoSlack.jpeg?dl=0 "Home Office")
-
-![From stage](https://user-images.githubusercontent.com/274222/38599918-92c2245c-3d62-11e8-98a5-3696f555a193.jpg "From stage")
