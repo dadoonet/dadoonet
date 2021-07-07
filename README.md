@@ -1,5 +1,7 @@
 # David Pilato
 
+![Twitter Follow](https://img.shields.io/twitter/follow/dadoonet?label=Follow%20me%20on%20Twitter&style=social)
+
 You can visit my [Speaker web site](https://speaker.pilato.fr/) to access my talks and
 check when/where I'm speaking next.
 
