@@ -24,3 +24,8 @@ whatever documents in elasticsearch using Apache Tika behind the scene.
 * [noti.st](https://speaker.pilato.fr/)
 
 
+## Pictures
+
+![Elastic Official](https://github.com/dadoonet/dadoonet/raw/main/DPI_Official_reduced.png?dl=0 "Elastic Official")
+
+![Home Office](https://github.com/dadoonet/dadoonet/raw/main/PhotoSlack.jpeg?dl=0 "Home Office")
