@@ -26,6 +26,6 @@ whatever documents in elasticsearch using Apache Tika behind the scene.
 
 ## Pictures
 
-![Elastic Official](https://github.com/dadoonet/dadoonet/raw/main/DPI_Official_reduced.png?dl=0 "Elastic Official")
+* Elastic Official: https://github.com/dadoonet/dadoonet/raw/main/DPI_Official_reduced.png
 
-![Home Office](https://github.com/dadoonet/dadoonet/raw/main/PhotoSlack.jpeg?dl=0 "Home Office")
+* Home Office: https://github.com/dadoonet/dadoonet/raw/main/PhotoSlack.jpeg
