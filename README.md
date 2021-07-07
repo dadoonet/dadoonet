@@ -33,3 +33,10 @@ whatever documents in elasticsearch using Apache Tika behind the scene.
 
 * Elastic Official: https://github.com/dadoonet/dadoonet/raw/main/DPI_Official_reduced.png
 * Home Office: https://github.com/dadoonet/dadoonet/raw/main/PhotoSlack.jpeg
+
+## Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadoonet&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dadoonet&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
