@@ -32,8 +32,8 @@ whatever documents in elasticsearch using Apache Tika behind the scene.
 
 ## Pictures
 
-* Elastic Official: https://github.com/dadoonet/dadoonet/raw/main/DPI_Official_reduced.png
-* Home Office: https://github.com/dadoonet/dadoonet/raw/main/PhotoSlack.jpeg
+* [Zoomed](https://storage.googleapis.com/dadoonet-speaker/DevoxxMA-David-Speaker-zoom.JPG) (square)
+* [Full](https://storage.cloud.google.com/dadoonet-speaker/DevoxxMA-David-Speaker.JPG)
 
 ## Github Stats
 
