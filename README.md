@@ -21,12 +21,13 @@ whatever documents in elasticsearch using Apache Tika behind the scene.
 
 ## Social Media / links
 
-* Twitter: [@dadoonet](https://twitter.com/dadoonet)
-* Github: [dadoonet](https://github.com/dadoonet) on GitHub
+* BlueSky: [@pilato.fr](https://bsky.app/profile/pilato.fr)
+* Twitter/X: [@dadoonet](https://twitter.com/dadoonet)
 * LinkedIn: [dadoonet](https://www.linkedin.com/in/dadoonet/)
+* Github: [dadoonet](https://github.com/dadoonet) on GitHub
 * StackOverFlow: [dadoonet](https://stackoverflow.com/users/1432281/dadoonet)
-* Blog: https://david.pilato.fr/
-* [noti.st](https://speaker.pilato.fr/)
+* Blog: [https://david.pilato.fr/](https://david.pilato.fr/)
+* Speaker: [https://speaker.pilato.fr/](https://speaker.pilato.fr/)
 
 
 ## Pictures
