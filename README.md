@@ -34,10 +34,3 @@ whatever documents in elasticsearch using Apache Tika behind the scene.
 
 * [Zoomed](https://storage.googleapis.com/dadoonet-speaker/DevoxxMA-David-Speaker-zoom.JPG) (square)
 * [Full](https://storage.cloud.google.com/dadoonet-speaker/DevoxxMA-David-Speaker.JPG)
-
-## Github Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadoonet&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dadoonet&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
